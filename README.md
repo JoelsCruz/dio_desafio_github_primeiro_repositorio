@@ -3,5 +3,5 @@
 Realizado dentro do Santander Bootcamp Fullstack Developer.
 
 ## *links úteis* 
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Sintaxe Basica Markdown</a>
 
