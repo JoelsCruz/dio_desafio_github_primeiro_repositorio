@@ -9,7 +9,7 @@ Realizado dentro do Santander Bootcamp Fullstack Developer.
 
 <a href= "https://www.markdownguide.org/basic-syntax/" target="_blank">Sintaxe Basica Markdown</a>
 
-
+[Comprime imagens Tinypng](https://tinypng.com/)
 
 
 
